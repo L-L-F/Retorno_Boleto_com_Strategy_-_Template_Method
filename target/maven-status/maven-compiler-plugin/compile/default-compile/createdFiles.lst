@@ -1,0 +1,6 @@
+com/laerton/strategy_com_template_method/LeituraRetornoBancoBrasil.class
+com/laerton/strategy_com_template_method/LeituraRetorno.class
+com/laerton/strategy_com_template_method/ProcessarBoletos.class
+Principal.class
+com/laerton/entitie/Boleto.class
+com/laerton/strategy_com_template_method/LeituraRetornoBancoBradesco.class
